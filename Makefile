@@ -1,9 +1,3 @@
-##
-## EPITECH PROJECT, 2018
-## make
-## File description:
-## make
-##
 
 all:
 	make -C generator
