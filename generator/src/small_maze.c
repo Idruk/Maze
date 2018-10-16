@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** small_maze
-** File description:
-** small_maze_generation
-*/
-
 #include <stdio.h>
 
 static void	choose_charact(int x, int i, int j)

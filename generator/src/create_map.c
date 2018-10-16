@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** createmap
-** File description:
-** createmap
-*/
-
 #include <string.h>
 #include <stdlib.h>
 #include "dante.h"

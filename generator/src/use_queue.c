@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** queue
-** File description:
-** queue
-*/
-
 #include <stdlib.h>
 #include "dante.h"
 
