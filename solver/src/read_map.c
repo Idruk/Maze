@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** read
-** File description:
-** read
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
