@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** error
-** File description:
-** error
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include "dante.h"

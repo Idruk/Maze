@@ -1,10 +1,3 @@
-##
-## EPITECH PROJECT, 2018
-## make
-## File description:
-## make
-##
-
 CC	=	gcc -Wall -Wextra
 
 NAME	=	solver

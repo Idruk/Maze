@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** select_rand
-** File description:
-** select
-*/
-
 #include <stdlib.h>
 #include "dante.h"
 
