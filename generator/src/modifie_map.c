@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** mod
-** File description:
-** mod
-*/
-
 #include "dante.h"
 
 static void	modify_y_axis(t_map *map, int x, int y)

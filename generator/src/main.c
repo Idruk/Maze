@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** main
-** File description:
-** main
-*/
-
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>

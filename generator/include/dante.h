@@ -1,10 +1,3 @@
-/*
-** EPITECH PROJECT, 2018
-** dante
-** File description:
-** dante
-*/
-
 #ifndef		DANTE_H_
 #define		DANTE_H_
 
